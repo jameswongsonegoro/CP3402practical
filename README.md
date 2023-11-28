@@ -16,3 +16,22 @@
 
 ### Career/Employability/Learning Insights
 ##### After completing practicals this week, I went back to look at the LinkedIn Learning Course to get insights that I may have missed before. This content will be very useful for me in the future, especially for my career. This method might be very effective for me to understand more deeply the content of this content.
+
+#
+## Week 2
+### Learning Activities & Resources
+##### In this week, I studied again through the LinkedIn Learning Course about a website that enables someone to build web sites and powerful online applications. I watched some of the learning course, one of them is about Wordpress Essential training.
+
+- https://www.linkedin.com/learning/wordpress-5-essential-training
+- https://www.youtube.com/watch?v=I0MBI9Qz-S0
+
+### Estimated Hours
+##### I spent around 6 hours on this subject this week.
+
+### Content Insights
+##### For Joomla CMS, I as a beginner should start by getting comfortable with how it looks and works, creating basic content like articles and categories, and adding extra features using extensions and templates. I also learn to manage users, make my site easier to find on search engines, keep it safe from online threats, back up your data, and connect with others in the Joomla community for help and advice.
+
+##### In WordPress training, I more focus on how to use the main dashboard, create different types of content like blog posts and web pages, and change how my site looks and behaves using themes and plugins. As I become more experienced, learn about user roles, improve how search engines find my site, keep it secure, back up your site regularly, and join the big WordPress community for tips and support.
+
+### Career/Employability/Learning Insights
+##### Proficiency in Joomla or WordPress CMS can lead to careers as developers, designers, or digital marketers. These skills open doors in agencies, freelance work, or corporate settings. With abundant learning resources and certifications available, mastering these platforms offers ongoing skill development, ensuring strong employability and advancement opportunities in the dynamic digital industry.
