@@ -35,3 +35,20 @@
 
 ### Career/Employability/Learning Insights
 ##### Proficiency in Joomla or WordPress CMS can lead to careers as developers, designers, or digital marketers. These skills open doors in agencies, freelance work, or corporate settings. With abundant learning resources and certifications available, mastering these platforms offers ongoing skill development, ensuring strong employability and advancement opportunities in the dynamic digital industry.
+
+#
+## Week 3
+### Learning Activities & Resources
+##### In week 3, I studied again through the LinkedIn Learning Course about creating a website using WordPress. I watched some of the learning course, one of them is about WordPress workflows.
+
+- https://www.linkedin.com/learning/wordpress-workflows-2015
+- https://www.youtube.com/watch?v=oB6b5P6bcZg
+
+### Estimated Hours
+##### I spent around 4.5 hours on this subject this week.
+
+### Content Insights
+##### WordPress is a popular platform that helps you create and manage websites without needing advanced technical skills. It offers a user-friendly interface where you can easily add content, such as text, images, and videos, using a system similar to writing in a word processor. With its wide range of themes and plugins, you can customize the look and functionality of your site. WordPress also provides tools for managing your site's structure, organizing content, and engaging with your audience through comments and social media integration. Whether you're a beginner or an experienced user, WordPress offers a flexible and versatile platform to build and maintain your website efficiently.
+
+### Career/Employability/Learning Insights
+##### Learning WordPress can significantly enhance your career prospects and employability. Acquiring skills in WordPress opens up opportunities in web design, content creation, digital marketing, and even freelance work. It's a valuable asset as many businesses and individuals rely on WordPress for their websites. Understanding WordPress equips you with the ability to create, manage, and customize websites efficiently, which is in high demand across various industries. Moreover, continuously learning about WordPress and its updates demonstrates adaptability and a willingness to stay current in a rapidly evolving digital landscape, making you a more attractive candidate to potential employers or clients seeking individuals with versatile digital skills.
