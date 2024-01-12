@@ -120,7 +120,7 @@
 
 ## Week 8
 ### Learning Activities & Resources
-##### In week 7, I studied through the LinkedIn Learning Course about WP workflow. I also watched some of the learning course about the workflow.
+##### In week 8, I studied through the LinkedIn Learning Course about WP workflow. I also watched some of the learning course about the workflow.
 - https://www.linkedin.com/learning/wordpress-building-themes-from-scratch-using-underscores-2
 - https://www.linkedin.com/learning/wordpress-developer-tips-dry-development
 
